@@ -1,0 +1,1 @@
+# From Leetcode 118. [Pascals Triangle](https://leetcode-cn.com/problems/pascals-triangle/)
